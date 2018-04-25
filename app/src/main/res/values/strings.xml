@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FishStickAndroidClient_REST</string>
+    <string name="action_settings">Settings</string>
+    <string name="web_service_url">http://10.70.242.197:8080/FishStick-war/webresources/entity.fishstick/</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="fishStick_id">ID: %s</string>
+    <string name="fishStick_recordNum">Record Number: %s</string>
+    <string name="fishStick_omega">Omega: %s</string>
+    <string name="fishStick_lambda">Lambda: %s</string>
+    <string name="fishStick_uuid">UUID: %s</string>
+    <string name="hint_text">Enter id value</string>
+    <string name="read_error">Unable to read data</string>
+    <string name="connect_error">Unable to connect to web service</string>
+</resources>
